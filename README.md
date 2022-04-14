@@ -1,4 +1,4 @@
-# myreact
+# myReactjs
 try the react.js for new project
 
 # Steps
